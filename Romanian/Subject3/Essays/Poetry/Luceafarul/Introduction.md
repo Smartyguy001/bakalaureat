@@ -1,0 +1,1 @@
+Poemul romantic „Luceafărul”, semnat de Mihai Eminescu, a apărut în 1883, în „Almanahul Societății Academice Social-Literare «România jună»” din Viena, fiind apoi reprodus în revista „Convorbiri literare”. Sursele de inspirație au fost cu precădere folclorice, poetul inspirându-se din basmul popular „Fata în grădina de aur” și din mitul Zburătorului.
