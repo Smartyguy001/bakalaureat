@@ -1,0 +1,1 @@
+„Eu nu strivesc corola de minuni a lumii” este o artă poetică, o confesiune a trăirilor autentice, devenită emblematică pentru modernism(ul românesc) – mișcare culturală și artistică, manifestată în special la începutul secolului XX, când adepții săi s-au revoltat împotriva tradițiilor/canoanelor impuse până atunci.

@@ -1,0 +1,1 @@
+Lucian Blaga, poetul-filozof, a fost o voce singulară între scriitorii Transilvaniei și a deschis liricii românești interbelice orizonturile fascinante ale unei viziuni de o uluitoare coerență. Aventura cuvântului și a tăcerilor sale întemeiază un teritoriu privilegiat aflat între tradiționalism și modernism, între conștiința autohtonă și vocația universalității.
