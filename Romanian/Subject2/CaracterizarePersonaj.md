@@ -4,4 +4,4 @@ Personajul literar este o instanță (fictivă) prin intermediul căreia autorul
 
 În al doilea rând, acest personaj este caracterizat și în mod indirect, trăsăturile sale reieșind din comportament, fapte, vorbe, gânduri, vestimentație și relațiile cu celelalte personaje: *[exemple cu comentarii]*.
 
-Concluzionând, personajul literar este un element cheie în structurarea textului epic, prin intermediul său fiind transmise o serie de valori umane / sfaturi de viață / [altele].
+Concluzionând, personajul literar este un element-cheie în structurarea textului epic, prin intermediul său fiind transmise o serie de valori umane / sfaturi de viață / [altele].
