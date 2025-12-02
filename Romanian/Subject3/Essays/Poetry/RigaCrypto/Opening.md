@@ -1,0 +1,1 @@
+Poezia „Riga Crypto și lapona Enigel” a fost publicată în 1924 în „Revista română” și mai apoi în volumul „Joc secund”, textul fiind gândit de Ion Barbu drept o baladă care surprinde o poveste de dragoste neobișnuită între două făpturi incompatibile.
