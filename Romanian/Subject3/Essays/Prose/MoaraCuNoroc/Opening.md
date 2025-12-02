@@ -1,0 +1,1 @@
+Slavici a fost unul dintre Marii Clasici ai literaturii noastre, anticipând scriitorii realiști care i-au urmat, precum Rebreanu sau Preda. „Moara cu noroc” a apărut în 1881, în volumul „Novele din popor”, și este o nivelă realist-psihologică în care accentul cade asupra construcției personajului principal: Ghiță.
