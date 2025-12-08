@@ -10,7 +10,7 @@ social:
 moral:
 - eroul, luptă de partea binelui
 - conflict cu Spânul
-- bun la suflet, curajos, cinstit, generos, milos, „omenos”, fidel principiilor sale, loial(!)
+- bun la suflet, curajos, cinstit, generos, milos, „omenos”, fidel principiilor sale, loial
 - amestec de calități și defecte
 - încalcă niște norme (nu își ascultă tatăl)
 
@@ -23,3 +23,5 @@ psihologic:
     * Sfânta Duminică (figură maternă), îl ocrotește, îl sfătuiește
     * Spânul (exemplu negativ), îl umilește și îl supune unor provocări
 - în final: bărbat matur, inițiat
+
+important: moral - loial
