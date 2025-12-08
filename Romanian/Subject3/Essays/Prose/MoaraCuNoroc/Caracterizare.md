@@ -32,3 +32,5 @@ psihologic:
     * conflict interior foarte puternic (familie vs. bani)
     * obsesiv
 - se folosesc tehnici specifice prozei psihologice, precum monologul interior, introspecția și analiza trăirilor personajului
+
+important: moral - imoral
