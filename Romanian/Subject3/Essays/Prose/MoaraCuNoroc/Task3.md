@@ -1,4 +1,4 @@
-Caracterul realist al nuvelei și construcția personajului principal este susținută de o serie de elemente de structură și de conținut, dintre care se evidențiază compoziția și coordonatele spațio-temporale.
+Caracterul realist al nuvelei și construcția personajului principal sunt susținute de o serie de elemente de structură și de conținut, dintre care se evidențiază compoziția și coordonatele spațio-temporale.
 
 La nivel compozițional, lucrarea este organizată în 17 capitole fără titlu, în care Slavici oferă un exemplu de echilibru și de rigoare. Se remarcă la acest nivel circularitatea, susținută de prezența replicilor bătrânei din incipit și din final. La sfârșit, cuvintele sale, „așa le-a fost dat!...”, concentrează morala operei, aceea că omul trebuie să se supună destinului implacabil, căci, dacă încearcă să-l schimbe, își va găsi sfârșitul tragic. La nivelul acțiunii, apar și elemente de simetrie, cum ar fi aparițiile lui Lică la han, care de fiecare dată accentuează conflictul, respectiv plecările bătrânei. De asemenea, textul respectă principiul cronologic și tehnica înlănțuirii, faptele fiind redate în succesiune logică, în ordinea în care se petrec.
 
