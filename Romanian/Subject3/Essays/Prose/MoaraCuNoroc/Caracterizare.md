@@ -2,11 +2,11 @@ social:
 - soțul Anei
 - un copil, apoi doi
 - ginerele bătrânei
+- ia în arendă hanul
 - cizmar sărac -> cârciumar, se îmbogățește
 - devine asociatul lui Lică
 - intră în conflict material cu Lică (bani)
 - trece de partea lui Pintea
-- ia în arendă hanul
 - luptă pentru putere/statut cu Lică
 
 moral:
