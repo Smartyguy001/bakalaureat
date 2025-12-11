@@ -21,7 +21,7 @@ psihologic:
     * tatăl
     * calul, sfătuitorul său permanent
     * Sfânta Duminică (figură maternă), îl ocrotește, îl sfătuiește
-    * Spânul (exemplu negativ), îl umilește și îl supune unor provocări
+    * Spânul (pedagogul rău), îl umilește și îl supune unor provocări
 - în final: bărbat matur, inițiat
 
 important: moral - loial
