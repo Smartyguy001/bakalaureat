@@ -1,0 +1,1 @@
+- roman obiectiv, interbelic, tradiționalist, 1930
