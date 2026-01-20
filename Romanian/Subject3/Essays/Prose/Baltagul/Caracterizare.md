@@ -1,10 +1,10 @@
 social:
 - gospodină din măgura Tarcăului, munteancă
-- își depășește condiția de femeie casnică
-- soția lui Nechifor Lipan -> își asumă statutul de văduvă
 - mama lui Gheorghiță și a Minodorei
+- soția lui Nechifor Lipan -> își asumă statutul de văduvă
 - familie avută de gospodari
 - needucată, nu știe să scrie și să citească
+- își depășește condiția de femeie casnică
 - conflict material cu cei doi criminali
 
 moral:
@@ -15,8 +15,8 @@ moral:
 - religioasă, credincioasă; în mod paradoxal, superstițioasă
 - respectă tradițiile, obiceiurile, ritualurile (nuntă, botez, înmormântare)
 - este foarte important să-și educe copiii în spiritul tradiției, să le insufle valori tradiționale
-- reușește să creeze legături cu oamenii pe care îi întâlnește ( -> reconstruirea drumului și crimei)
 - conflict între generații (cu Minodora)
+- reușește să creeze legături cu oamenii pe care îi întâlnește ( -> reconstruirea drumului și crimei)
 - devotament, loialitate
 
 psihologic:
