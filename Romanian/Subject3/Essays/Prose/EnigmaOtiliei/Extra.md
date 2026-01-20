@@ -1,0 +1,3 @@
+- apărut în 1938, roman realist, interbelic, obiectiv
+- realism balzacian
+- Balzac a trăit cu mai mult de 100 de ani înaintea lui Călinescu
