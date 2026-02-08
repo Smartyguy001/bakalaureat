@@ -1,0 +1,3 @@
+- roman interbelic, subiectiv, modernist, psihologic, al experienței (este conceput pe baza experienței de viață a autorului, având ca sursă de bază jurnalul acestuia)
+- publicat în 1930
+- în introducere nu prezentăm curentul
