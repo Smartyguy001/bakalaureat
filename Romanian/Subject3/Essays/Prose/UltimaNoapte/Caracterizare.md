@@ -1,7 +1,24 @@
-Ștefan Gheorghidiu este protagonistul și naratorul evenimentelor în roman, un individ complex, ce ilustrează modelul omului superior, incapabil să se adapteze în societate.
+social:
+- student la Universitatea de Filosofie, unde era apreciat
+- nepotul lui Tache și Nae Gheorghidiu
+- fiul lui Corneliu
+- căsătorit cu Ela
+- sublocotenent de infanterie
+- conflict cu familia după ce primește o parte a moștenirii lui Tache -> intră în cercurile mondene
+- în final, i-o lasă Elei
+- divorțează de Ela
 
-În ce privește statutul social, personajul principal al romanului este un tânăr student la universitatea de filosofie, apreciat de cadrele didactice pentru efortul său, apoi se înrolează în armată în funcția de sublocotenent de infanterie în timpul Primului Război Mondial. Inițial, situația sa materială este una modestă, însă intră în posesia unei moșteniri generoase din partea unchiului Tache. Totodată, el este căsătorit cu o tânără studentă la facultatea de Litere, Ela, de care va divorța în cele din urmă.
+moral:
+- orgolios, idealist, inadaptat
+- conflict cu Ela, care prețuia averea
+- onest
+- conflict cu societatea, valori incompatibile
+- pune preț pe diverse valori morale: principii absolute, iubire completă, adevăr, dreptate, verticalitate, camaraderie, curaj, responsabilitate
 
-Din punct de vedere moral, Gheorghidiu reprezintă tânărul intelectual inadaptat, care are valori opuse față de cele ale societății. Totodată, se evidențiază faptul că este definit de principii absolute, de orgoliu și de idealism. Protagonistul se află în conflict moral cu soția sa, Ela, deoarece aceasta îi prețuia averea. În ciuda vieții duse în lumea mondenă, sublocotenentul adoptă, în timpul războiului, noi valori morale, profund influențate de conflict, precum: verticalitate, camaraderie, responsabilitate, adevăr, dreptate și curaj.
-
-La nivel psihologic, Ștefan este o fire hiperanalitică, impulsivă, inteligentă, în care se remarcă un complex de superioritate. În cadrul relației, protagonistul este posesiv, gelos, iar dragostea devine o obsesie pentru el. În acest sens, se remarcă un conflict interior puternic, atât între el și societate, cât și între a crede sau nu că soția lui îl înșală. Cu toate acestea, în mod ciudat, războiul îl va face să uite de frământări și suferințe, făcându-l să devină indiferent față de Ela.
+psihologic:
+- posesiv, gelos, neîncrezător/incert
+- dragostea devine pentru el o obsesie
+- conflict interior puternic, generat de gelozie și îndoieli
+- complex de superioritate
+- inteligent, hiperanalitic, impulsiv
+- în mod ciudat, războiul îi aduce un echilibru interior
