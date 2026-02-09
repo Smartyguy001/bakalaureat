@@ -16,7 +16,7 @@ moral:
 - pune preț pe diverse valori morale: principii absolute, iubire completă, adevăr, dreptate, verticalitate, camaraderie, curaj, responsabilitate
 
 psihologic:
-- posesiv, gelos, neîncrezător/incert
+- posesiv, gelos, neîncrezător
 - dragostea devine pentru el o obsesie
 - conflict interior puternic, generat de gelozie și îndoieli
 - complex de superioritate
