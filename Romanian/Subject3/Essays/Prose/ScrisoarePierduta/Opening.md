@@ -1,0 +1,1 @@
+„O scrisoare pierdută” a fost considerată de critica literară o „comedie totală”, deoarece valorifică toate tipurile de comic cunoscute. Ironia lui Caragiale se îndreaptă către viciile societății/contemporanilor săi, pe care le surprinde în piesele de teatru cu scopul de a le corecta.
