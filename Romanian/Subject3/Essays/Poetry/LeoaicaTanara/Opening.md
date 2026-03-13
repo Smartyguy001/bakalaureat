@@ -1,0 +1,1 @@
+Nichita Stănescu a fost unul din cei mai importanți reprezentanți ai Generației '60, lăsându-și amprenta asupra perioadei postbelice. Lucrarea „Leoaică tânără, iubirea” aparține etapei metaforice a creației lui Stănescu și face parte din volumul „O viziune a sentimentelor”, publicat în 1964.
