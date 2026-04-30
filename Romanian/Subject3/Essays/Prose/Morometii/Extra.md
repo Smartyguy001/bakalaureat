@@ -1,0 +1,3 @@
+- roman postbelic, după WW2
+- vol. 1: 1955
+- vol. 2: 1967
