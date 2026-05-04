@@ -1,0 +1,1 @@
+„Piesa „Iona” reprezintă primul experiment făcut de Marin Sorescu în domeniul dramaturgiei și a fost publicată în trilogia „Setea muntelui de sare” (alături de „Matca” și „Paracliserul”). Lucrarea are o vizibilă componentă filosofică, concentrând particularitățile de creație ale generației '60 și ale neomodernismului.

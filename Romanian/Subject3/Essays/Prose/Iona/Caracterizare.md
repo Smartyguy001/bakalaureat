@@ -1,0 +1,5 @@
+Din punct de vedere social, Iona este un pescar ce ilustrează singurătatea absolută a individului. Deși meseria sa are conotații biblice, el este un personaj nevinovat pentru care captivitatea reprezintă o condiție umană prestabilită. Peștele devine un simbol al autocunoașterii, singurul său reper fiind amintirea familiei, acesta fiind căsătorit și având doi copii.
+
+Pe plan moral, acesta este un spirit reflexiv și idealist care își caută locul în lume. Oscilează între conformism și lupta pentru libertate, folosind autoironia ca mecanism de supraviețuire în fața unui destin de pescar ghinionist. În final, Iona reușește să își redobândească identitatea, spunând „Eu sunt Iona”.
+
+Psihologic, el trăiește conflicte interioare puternice, trecând rapid de la pasivitate la exaltare. Din cauza nesiguranței privind rostul vieții, el recurge la dedublare pentru a putea comunica în izolare. Deși trece printr-o criză identitară profundă, acesta se regăsește pe sine în momentul final.
