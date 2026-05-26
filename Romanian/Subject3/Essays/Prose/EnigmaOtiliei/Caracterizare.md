@@ -1,6 +1,6 @@
 social:
 - orfană
-- fiica adoptivă/luată în grijă de moș Costache (nu finalizează procesul/actele de adopție din cauza insistențelor/scandalurilor Aglaei)
+- fiica vitregă a lui moș Costache (fata celei de-a doua soții) -> el nu finalizează procesul/actele de adopție din cauza insistențelor/scandalurilor Aglaei
 - aparține clasei burgheze
 - inițial, studentă la Conservator
 - se mărită cu Pascalopol -> divorț -> conte argentinian
@@ -8,8 +8,7 @@ social:
 
 moral:
 - nu se supune normelor, regulilor sociale
-- Aglae și Aurica o consideră imorală, „stricată”
-- destrăbălată, zănatică
+- Aglae și Aurica o consideră imorală, „stricată”, destrăbălată, zănatică
 - moș Costache o vede ca pe o fetiță, inocentă
 - el spune că seamănă cu mama ei
 - generoasă, face cadouri și Auricăi, Aglaei (deși ele o urăsc)
