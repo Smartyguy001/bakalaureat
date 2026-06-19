@@ -1,5 +1,5 @@
 social:
-- gospodină din măgura Tarcăului, munteancă
+- gospodină din Măgura Tarcăului, munteancă
 - mama lui Gheorghiță și a Minodorei
 - soția lui Nechifor Lipan -> își asumă statutul de văduvă
 - familie avută de gospodari
