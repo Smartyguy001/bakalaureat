@@ -20,5 +20,6 @@ psihologic:
 - dragostea devine pentru el o obsesie
 - conflict interior puternic, generat de gelozie și îndoieli
 - complex de superioritate
-- inteligent, hiperanalitic, impulsiv
+- inteligent, hiperanalitic
+- impulsiv
 - în mod ciudat, războiul îi aduce un echilibru interior
