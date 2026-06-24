@@ -1,9 +1,9 @@
 social:
 - soția lui Trahanache, îl înșală cu Tipătescu (amicul soțului)
 - nu are drept de vot
-- aparține burgheziei, situație materială foarte bună
-- influentă
 - nu este membră în partid, nu are funcție administrativă
+- influentă
+- aparține burgheziei, situație materială foarte bună
 - educată, unul din singurele personaje care nu face greșeli gramaticale
 
 moral:
